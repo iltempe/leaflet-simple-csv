@@ -1,4 +1,4 @@
-var dataUrl = '//raw.githubusercontent.com/emergenzeHack/terremotocentro/master/_data/issues.csv';
+var dataUrl = 'data/issues.csv';
 var maxZoom = 9;
 var fieldSeparator = ',';
 var baseUrl = 'http://otile{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.jpg';
